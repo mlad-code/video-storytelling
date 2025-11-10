@@ -1,0 +1,12 @@
+{
+    "Doe": [
+        {
+            "name": "John Doe",
+            "image_url": "file:///usr/local/google/home/mlad/adk-demo/mcp_images/john_doe.png"
+        },
+        {
+            "name": "Jane Doe",
+            "image_url": "file:///usr/local/google/home/mlad/adk-demo/mcp_images/jane_doe.png"
+        }
+    ]
+}
